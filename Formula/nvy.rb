@@ -6,6 +6,6 @@ class Nvy < Formula
   version "1.1.3"
 
   def install
-    bin.install "espanso"
+    bin.install "nvy"
   end
 end

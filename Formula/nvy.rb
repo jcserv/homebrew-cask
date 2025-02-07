@@ -1,9 +1,9 @@
 class Nvy < Formula
   desc "A simple command line tool for managing multiple env files (profiles) in a project."
   homepage "https://github.com/jcserv/nvy"
-  url "https://github.com/jcserv/nvy/releases/latest/download/nvy-1.1.6-aarch64-apple-darwin.tar.gz"
-  sha256 "5380484aa108fdde331e0707d136bd0bc85ef9042e90a0362f87f077accb9e66"
-  version "1.1.6"
+  url "https://github.com/jcserv/nvy/releases/latest/download/nvy-1.1.7-aarch64-apple-darwin.tar.gz"
+  sha256 "f0a4e42b37f41af50dd060a34375cf69bb98e2c513f3093378ad37bfecb9101b"
+  version "1.1.7"
 
   def install
     bin.install "nvy"
